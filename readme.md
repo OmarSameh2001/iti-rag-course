@@ -1,10 +1,13 @@
 # Application setup:
 Install the requirements.txt in python venv
+
 make .env file with API keys and connection strings
+
 run using: `uvicorn app:main --reload`
 
 # Prerequisites:
 OPEN-AI API key or local infered LLM
+
 setup vector indexes in mongo db
 
 # Toturials:
